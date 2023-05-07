@@ -1,0 +1,6 @@
+POST localhost:8082/messages
+Content-Type: application/json
+
+{
+  "body": "new message"
+}
